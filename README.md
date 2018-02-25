@@ -14,4 +14,4 @@
 
 ## 扫码体验
 
-![](https://appvf.com/images/acode.jpg 'Budda故道白云')
+![](https://appvf.com/images/acode.jpg '心之主')
