@@ -14,4 +14,4 @@
 
 ## 扫码体验
 
-![](https://appvf.com/images/acode.jpg '心之主')
+![](https://appvf.com/images/acode2.jpg '心之主')
